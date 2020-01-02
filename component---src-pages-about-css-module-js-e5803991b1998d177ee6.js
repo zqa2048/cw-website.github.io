@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{uSif:function(n,e,c){"use strict";c.r(e);c("q1tI"),c("Bl7J");var t=c("OQUR"),u=c.n(t),l=c("qKvR"),o=function(n){var e=n.children;return Object(l.b)("div",{className:u.a.container},e)};e.default=function(){return Object(l.b)(o,null,Object(l.b)("h1",null,"关于 CSS module"),Object(l.b)("p",null,"css Module are cool"))}}}]);
+//# sourceMappingURL=component---src-pages-about-css-module-js-e5803991b1998d177ee6.js.map
